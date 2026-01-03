@@ -1,0 +1,272 @@
+{
+  "version": 1,
+  "base_track": "Clock Strikes",
+  "base_artist": "ONE OK ROCK",
+  "createdAt": "2026-01-03T16:12:27.004225Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Clock Strikes Ten",
+      "artist": "Cheap Trick",
+      "has_synced": false,
+      "path": "select/01_Clock_Strikes_Ten_Cheap_Trick.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Clock Strikes",
+      "artist": "ONE OK ROCK",
+      "has_synced": true,
+      "path": "select/02_Clock_Strikes_ONE_OK_ROCK.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Clock Strikes",
+      "artist": "ONE OK ROCK",
+      "has_synced": true,
+      "path": "select/03_Clock_Strikes_ONE_OK_ROCK.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Grandfather Clock Strikes Twelve",
+      "artist": "Eels",
+      "has_synced": true,
+      "path": "select/04_Grandfather_Clock_Strikes_Twelve_Eels.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Clock Strikes",
+      "artist": "Timbaland & Magoo",
+      "has_synced": false,
+      "path": "select/05_Clock_Strikes_Timbaland_&_Magoo.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Clock Strikes Ten",
+      "artist": "Cheap Trick",
+      "has_synced": true,
+      "path": "select/06_Clock_Strikes_Ten_Cheap_Trick.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Clock Strikes Ten - Live",
+      "artist": "Cheap Trick",
+      "has_synced": false,
+      "path": "select/07_Clock_Strikes_Ten_-_Live_Cheap_Trick.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Clock Strikes - Remix",
+      "artist": "Timbaland & Magoo",
+      "has_synced": true,
+      "path": "select/08_Clock_Strikes_-_Remix_Timbaland_&_Magoo.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Clock Strikes (Remix)",
+      "artist": "Timbaland & Magoo",
+      "has_synced": true,
+      "path": "select/09_Clock_Strikes_(Remix)_Timbaland_&_Magoo.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Clock Strikes",
+      "artist": "Wildside",
+      "has_synced": true,
+      "path": "select/10_Clock_Strikes_Wildside.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "When The Clock Strikes",
+      "artist": "Whitecross",
+      "has_synced": true,
+      "path": "select/11_When_The_Clock_Strikes_Whitecross.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Clock Strikes Midnight",
+      "artist": "Paddy and the Rats",
+      "has_synced": true,
+      "path": "select/12_Clock_Strikes_Midnight_Paddy_and_the_Rats.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Clock Strikes",
+      "artist": "Timbaland",
+      "has_synced": false,
+      "path": "select/13_Clock_Strikes_Timbaland.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Clock Strikes - Remix",
+      "artist": "Timbaland",
+      "has_synced": false,
+      "path": "select/14_Clock_Strikes_-_Remix_Timbaland.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Clock Strikes",
+      "artist": "Timbaland & Magoo",
+      "has_synced": true,
+      "path": "select/15_Clock_Strikes_Timbaland_&_Magoo.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "The Clock at the Back of the Cage",
+      "artist": "Amanda Palmer, Edward Ka-Spel",
+      "has_synced": false,
+      "path": "select/16_The_Clock_at_the_Back_of_the_Cage_Amanda_Palmer,_Edward_Ka-Spel.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "The Clock at the Back of the Cage",
+      "artist": "Amanda Palmer",
+      "has_synced": false,
+      "path": "select/17_The_Clock_at_the_Back_of_the_Cage_Amanda_Palmer.txt"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "It's Five O' Clock Somewhere",
+      "artist": "Alan Jackson & Jimmy Buffet",
+      "has_synced": true,
+      "path": "select/18_It's_Five_O'_Clock_Somewhere_Alan_Jackson_&_Jimmy_Buffet.lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Round The Clock Lovin'",
+      "artist": "K.T. Oslin",
+      "has_synced": true,
+      "path": "select/19_Round_The_Clock_Lovin'_K.T._Oslin.lrc"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "Clock With No Hands",
+      "artist": "The Roots feat. Mercedes Martinez",
+      "has_synced": false,
+      "path": "select/20_Clock_With_No_Hands_The_Roots_feat._Mercedes_Martinez.txt"
+    },
+    {
+      "id": "lrclib_21",
+      "source": "lrclib",
+      "title": "Clock With No Hands",
+      "artist": "The Roots",
+      "has_synced": false,
+      "path": "select/21_Clock_With_No_Hands_The_Roots.txt"
+    },
+    {
+      "id": "lrclib_22",
+      "source": "lrclib",
+      "title": "The Clock Is Tickin'",
+      "artist": "Salt-N-Pepa",
+      "has_synced": true,
+      "path": "select/22_The_Clock_Is_Tickin'_Salt-N-Pepa.lrc"
+    },
+    {
+      "id": "lrclib_23",
+      "source": "lrclib",
+      "title": "At the Chime of a City Clock",
+      "artist": "Nick Drake",
+      "has_synced": true,
+      "path": "select/23_At_the_Chime_of_a_City_Clock_Nick_Drake.lrc"
+    },
+    {
+      "id": "lrclib_24",
+      "source": "lrclib",
+      "title": "And The Clock Goes Round - Piano Demo",
+      "artist": "Elton John",
+      "has_synced": true,
+      "path": "select/24_And_The_Clock_Goes_Round_-_Piano_Demo_Elton_John.lrc"
+    },
+    {
+      "id": "lrclib_25",
+      "source": "lrclib",
+      "title": "Three O' Clock In The Morning",
+      "artist": "B.B. King",
+      "has_synced": false,
+      "path": "select/25_Three_O'_Clock_In_The_Morning_B.B._King.txt"
+    },
+    {
+      "id": "lrclib_26",
+      "source": "lrclib",
+      "title": "Five O Clock World",
+      "artist": "The Proclaimers",
+      "has_synced": true,
+      "path": "select/26_Five_O_Clock_World_The_Proclaimers.lrc"
+    },
+    {
+      "id": "lrclib_27",
+      "source": "lrclib",
+      "title": "Clock Milk",
+      "artist": "Saint Etienne",
+      "has_synced": false,
+      "path": "select/27_Clock_Milk_Saint_Etienne.txt"
+    },
+    {
+      "id": "lrclib_28",
+      "source": "lrclib",
+      "title": "The Princess and the Clock",
+      "artist": "Kero Kero Bonito",
+      "has_synced": true,
+      "path": "select/28_The_Princess_and_the_Clock_Kero_Kero_Bonito.lrc"
+    },
+    {
+      "id": "lrclib_29",
+      "source": "lrclib",
+      "title": "Time (Clock of the Heart)",
+      "artist": "Culture Club",
+      "has_synced": false,
+      "path": "select/29_Time_(Clock_of_the_Heart)_Culture_Club.txt"
+    },
+    {
+      "id": "lrclib_30",
+      "source": "lrclib",
+      "title": "Turn Back The Clock - 12'' Extended Mix (2008 Digital Remaster)",
+      "artist": "Johnny Hates Jazz",
+      "has_synced": true,
+      "path": "select/30_Turn_Back_The_Clock_-_12''_Extended_Mix_(2008_Digital_Remaster)_Johnny_Hates_Jazz.lrc"
+    },
+    {
+      "id": "lrclib_31",
+      "source": "lrclib",
+      "title": "Tell Me - Clock Opera Remix",
+      "artist": "Au Revoir Simone",
+      "has_synced": false,
+      "path": "select/31_Tell_Me_-_Clock_Opera_Remix_Au_Revoir_Simone.txt"
+    },
+    {
+      "id": "lrclib_32",
+      "source": "lrclib",
+      "title": "Clock",
+      "artist": "Beck",
+      "has_synced": true,
+      "path": "select/32_Clock_Beck.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Clock Strikes",
+      "artist": "ONE OK ROCK",
+      "has_synced": false,
+      "path": "select/pl_01_Clock_Strikes_ONE_OK_ROCK.txt"
+    }
+  ]
+}
